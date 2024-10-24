@@ -6,4 +6,4 @@ To run the program, you can open the dev container in visual studio code, or run
 pip install -r requirements.txt
 ```
 
-After everything is set up, you can open the `borrels.ipynb` file and hit "run all". The solution is displayed at the bottom of the file and in the second cell is the path to the input file.
+After everything is set up, you can open the `borrel.ipynb` file and hit "run all". The solution is displayed at the bottom of the file and in the second cell is the path to the input file.
